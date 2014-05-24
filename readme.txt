@@ -3,3 +3,4 @@ Git is a free software distributed under the GPL.
 Git has a mutable index called stage.
 
 R is a free open software.
+R is a powerful statistical software.
