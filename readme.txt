@@ -6,3 +6,5 @@ R is a free open software.
 R is a powerful statistical software.
 
 creat a new branch named dev.
+
+creat a new branch is quick and simple.
