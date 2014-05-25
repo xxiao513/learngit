@@ -8,3 +8,4 @@ R is a powerful statistical software.
 creat a new branch named dev.
 
 creat a new branch is quick and simple.
+merge the branch without ff.
